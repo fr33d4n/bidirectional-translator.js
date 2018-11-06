@@ -1,7 +1,7 @@
 # Bidirectional Translator JS
 A lightweight and comfortable bidirectional Node (+v8) library for translating simple (key -> value) and (value -> key) pairs.
 
-[![Build Status](https://travis-ci.org/fr33d4n/bidirectional-translator.js.svg?branch=master)](https://travis-ci.org/fr33d4n/bidirectional-translator.js)
+[![Build Status](https://travis-ci.org/fr33d4n/bidirectional-translator.js.svg?branch=master)](https://travis-ci.org/fr33d4n/bidirectional-translator.js) [![codecov](https://codecov.io/gh/fr33d4n/bidirectional-translator.js/branch/master/graph/badge.svg)](https://codecov.io/gh/fr33d4n/bidirectional-translator.js)
 
 ## Installation
 ```sh
